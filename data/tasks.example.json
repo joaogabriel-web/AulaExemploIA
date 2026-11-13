@@ -1,0 +1,20 @@
+[
+  {
+    "id": "exemplo-1",
+    "titulo": "Estudar o que é uma API REST",
+    "concluida": true,
+    "criadaEm": "2025-01-01T12:00:00.000Z"
+  },
+  {
+    "id": "exemplo-2",
+    "titulo": "Consultar tarefas pelo front-end",
+    "concluida": false,
+    "criadaEm": "2025-01-02T12:00:00.000Z"
+  },
+  {
+    "id": "exemplo-3",
+    "titulo": "Criar minha própria tarefa",
+    "concluida": false,
+    "criadaEm": "2025-01-03T12:00:00.000Z"
+  }
+]
